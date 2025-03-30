@@ -14,7 +14,7 @@ requests = "^2.31.0"
 pandas = "^2.0.3"
 requests-futures = "^1.0.1"
 tqdm = "^4.65.0"
-lxml = "^4.9.3"
+lxml = ">=4.9.4"
 selenium = {version = "^4.10.0", optional = true}
 beautifulsoup4 = "^4.12.2"
 
